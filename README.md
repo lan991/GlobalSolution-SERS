@@ -42,9 +42,9 @@ O projeto também deixa aberto e sugere que um próximo passo seja a análise e 
 
 O repositório está organizado para a revisão do projeto:
 
-1.  Relatório Completo: abra o arquivo 'SERS_GS.pdf' para a conseguir ver o relatório completo como a fundamentação teórica do projeto, argumentação e fórmulas.
+1.  Relatório Completo: Abra o arquivo 'SERS_GS.pdf' para a conseguir ver o relatório completo como a fundamentação teórica do projeto, argumentação e fórmulas.
 
-2.  Validação de Cálculos: Vá ate a pasta ‘Dados_e_Analise/’ e abra o arquivo ‘analise_energia.xlsx’ (código/simulação) para conseguir verificar o cálculo do consumo total anual e da Economia.
+2.  Validação de Cálculos: Abra o arquivo ‘analise_energia.xlsx’ (código/simulação) para conseguir verificar o cálculo do consumo total anual e da Economia.
 
 3.  Dados de Entrada: Os dados brutos (simulados) se encontram no arquivo ‘dados_simulados.csv’
 
