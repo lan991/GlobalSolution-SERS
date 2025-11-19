@@ -1,0 +1,6 @@
+Equipamento,Quantidade (Q),Consumo Unitário Ativo (EL​ / ano),Consumo Unitário Ocioso (EO​ / ano),Consumo Unitário Total (Euni​),Consumo Anual Total (Etotal​)
+Notebooks padrão,50,1.300 kWh,200 kWh,1.500 kWh,"7.500,0 kWh"
+Servidor principal,1,3.942 kWh,0 kWh,3.942 kWh,"3.942,0 kWh"
+Switch de rede,2,"700,8 kWh",0 kWh,"700,8 kWh","1.401,6 kWh"
+Impressora laser,3,60 kWh,60 kWh,120 kWh,"360,0 kWh"
+TOTAL GERAL ANUAL (Baseline),,,,,"13.203,6 kWh"
